@@ -2,7 +2,9 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.google.android.apps.books",
-    "sha256_cert_fingerprints": ["F0:FD:6C:5B:41:0F:25:CB:25:C3:B5:33:46:C8:97:2F:AE:30:F8:EE:74:11:DF:91:04:80:AD:6B:2D:60:DB:83"]
+    "package_name": "tw.com.ecpay.app.gwpay",
+    "sha256_cert_fingerprints": [
+      "E7:DA:CF:BC:CA:5E:E0:2F:EB:D4:08:35:EF:8E:8E:35:E7:3D:99:9E:EA:27:44:4F:A2:65:46:A3:33:DB:F7:62",
+      "3B:C1:16:22:12:D7:85:25:A1:8F:DF:82:04:DF:85:E2:0B:56:2D:85:61:28:4B:0D:3F:0C:A2:7A:A4:0E:9F:79"]
   }
 }]
